@@ -11,3 +11,16 @@
 #img-caption{
     text-align: center;
 }
+#tribute-info{
+    text-align: justify;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#tribute-link{
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+body {
+    background-color: gray;
+  }
